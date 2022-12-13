@@ -1,5 +1,7 @@
 # BeAcademy_FromZeroToHero_ProjetoFinal
 
+Desenvolvimento do projeto final, contendo: 
+
 1º Planilha Excel:
 -Seleção e manipulação de intervalos;
 -Formatação por tipos de células (texto, número, hora, percentual, etc...);
